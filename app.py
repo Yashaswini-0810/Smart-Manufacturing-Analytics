@@ -126,7 +126,7 @@ def empty_message():
 
 st.markdown("""
 <div class="hero">
-  <h1>6G-Enabled Smart Manufacturing Analytics</h1>
+  <h1>Smart Manufacturing Production Analytics and Performance Dashboard</h1>
   <p>Interactive overview of machine performance, production operations,
   job outcomes and predictive analytics.</p>
 </div>
